@@ -1,7 +1,7 @@
 const mario = document.querySelector(".super-mario");
 const pipe = document.querySelector(".pipe-game");
 
-const jump = () => {
+const jump = TouchEvent => {
   mario.classList.add("jump-mario");
 
   setTimeout(() => {
