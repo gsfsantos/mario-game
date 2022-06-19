@@ -1,2 +1,2 @@
 # mario-game
-Teste de aula do curso StartSe JavaScript
+Teste de exercício feito em aula do curso StartSe JavaScript
